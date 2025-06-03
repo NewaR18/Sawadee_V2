@@ -1,0 +1,671 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nitro\\AppData\\Roaming\\Microsoft\\UserSecrets\\b01625b8-f7fc-4bcb-ada7-1df087125e33\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\aspnetcorefrombasic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\aspnetcorefrombasic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FE3B9E-A564-4CAB-A1A4-7224E47FCBC3}|AspNetCore.CommonFunctions\\AspNetCore.CommonFunctions.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.commonfunctions\\expressions\\predicatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FE3B9E-A564-4CAB-A1A4-7224E47FCBC3}|AspNetCore.CommonFunctions\\AspNetCore.CommonFunctions.csproj|solutionrelative:aspnetcore.commonfunctions\\expressions\\predicatefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\managebackgroundjobs\\managehangfirejobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\managebackgroundjobs\\managehangfirejobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\security\\apikeyauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\security\\apikeyauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\customer\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\customer\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\payments\\esewapayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\payments\\esewapayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\payments\\khaltipayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\payments\\khaltipayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\modules\\servicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\middleware\\synccontrollerandmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\middleware\\synccontrollerandmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\middleware\\authorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\middleware\\authorizationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\enumerators\\paymentmethodenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\enumerators\\paymentmethodenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\enumerators\\paymentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\enumerators\\paymentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\enumerators\\orderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\enumerators\\orderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\emailconfigurations\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\emailconfigurations\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\commons\\smssending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\commons\\smssending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\websocketimplementation\\dashboardhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\websocketimplementation\\dashboardhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\wwwroot\\js\\signalr\\signalrdashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\wwwroot\\js\\signalr\\signalrdashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\wwwroot\\js\\signalr\\chatwithsignalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\wwwroot\\js\\signalr\\chatwithsignalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06DDD0F-0341-4022-B79A-DDDD30BD5E77}|AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.dataaccess\\dbinitializers\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06DDD0F-0341-4022-B79A-DDDD30BD5E77}|AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj|solutionrelative:aspnetcore.dataaccess\\dbinitializers\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\admin\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06DDD0F-0341-4022-B79A-DDDD30BD5E77}|AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.dataaccess\\repository\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06DDD0F-0341-4022-B79A-DDDD30BD5E77}|AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj|solutionrelative:aspnetcore.dataaccess\\repository\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\wwwroot\\js\\cart\\cartmanipulation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\wwwroot\\js\\cart\\cartmanipulation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcorefrombasic\\views\\shared\\components\\shoppingcart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5D9F595-2488-497E-88D6-FC2F9EEDBA35}|AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj|solutionrelative:aspnetcorefrombasic\\views\\shared\\components\\shoppingcart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06DDD0F-0341-4022-B79A-DDDD30BD5E77}|AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.dataaccess\\repository\\orderheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06DDD0F-0341-4022-B79A-DDDD30BD5E77}|AspNetCore.DataAccess\\AspNetCore.DataAccess.csproj|solutionrelative:aspnetcore.dataaccess\\repository\\orderheaderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.utilities\\staticdefinitions\\staticstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2048BA99-6425-465F-BEB8-880B77B41BC2}|AspNetCore.Utilities\\AspNetCore.Utilities.csproj|solutionrelative:aspnetcore.utilities\\staticdefinitions\\staticstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0DD97-2BAA-4544-A3C3-AECF6222D75F}|AspNetCore.Models\\AspNetCore.Models.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.models\\viewmodel\\maildetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0DD97-2BAA-4544-A3C3-AECF6222D75F}|AspNetCore.Models\\AspNetCore.Models.csproj|solutionrelative:aspnetcore.models\\viewmodel\\maildetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C0DD97-2BAA-4544-A3C3-AECF6222D75F}|AspNetCore.Models\\AspNetCore.Models.csproj|c:\\users\\nitro\\source\\repos\\sawadee_v2\\sawadee_v2\\aspnetcore.models\\viewmodel\\paymentkhaltiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C0DD97-2BAA-4544-A3C3-AECF6222D75F}|AspNetCore.Models\\AspNetCore.Models.csproj|solutionrelative:aspnetcore.models\\viewmodel\\paymentkhaltiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Nitro\\AppData\\Roaming\\Microsoft\\UserSecrets\\b01625b8-f7fc-4bcb-ada7-1df087125e33\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b01625b8-f7fc-4bcb-ada7-1df087125e33\\secrets.json",
+              "ToolTip": "C:\\Users\\Nitro\\AppData\\Roaming\\Microsoft\\UserSecrets\\b01625b8-f7fc-4bcb-ada7-1df087125e33\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b01625b8-f7fc-4bcb-ada7-1df087125e33\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T20:16:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AspNetCoreFromBasic.csproj",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj",
+              "RelativeToolTip": "AspNetCoreFromBasic\\AspNetCoreFromBasic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T18:21:04.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PredicateFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.CommonFunctions\\Expressions\\PredicateFilter.cs",
+              "RelativeDocumentMoniker": "AspNetCore.CommonFunctions\\Expressions\\PredicateFilter.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.CommonFunctions\\Expressions\\PredicateFilter.cs",
+              "RelativeToolTip": "AspNetCore.CommonFunctions\\Expressions\\PredicateFilter.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:17:42.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiKeyAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Security\\ApiKeyAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Security\\ApiKeyAuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Security\\ApiKeyAuthorizationFilter.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Security\\ApiKeyAuthorizationFilter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA0wB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:17:06.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhaltiPayments.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Payments\\KhaltiPayments.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Payments\\KhaltiPayments.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Payments\\KhaltiPayments.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Payments\\KhaltiPayments.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAASwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAjwKsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Program.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Program.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreFromBasic\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T14:59:58.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALMAAAAAAAAAAAAuwNAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T14:59:58.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentMethodEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Enumerators\\PaymentMethodEnum.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Enumerators\\PaymentMethodEnum.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Enumerators\\PaymentMethodEnum.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Enumerators\\PaymentMethodEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:00:28.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageHangfireJobs.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\ManageBackgroundJobs\\ManageHangfireJobs.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\ManageBackgroundJobs\\ManageHangfireJobs.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\ManageBackgroundJobs\\ManageHangfireJobs.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\ManageBackgroundJobs\\ManageHangfireJobs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EsewaPayments.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Payments\\EsewaPayments.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Payments\\EsewaPayments.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Payments\\EsewaPayments.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Payments\\EsewaPayments.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHUDAAAAAAAAAAASwIgDAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SyncControllerAndMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Middleware\\SyncControllerAndMenu.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Middleware\\SyncControllerAndMenu.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Middleware\\SyncControllerAndMenu.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Middleware\\SyncControllerAndMenu.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceModule.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Modules\\ServiceModule.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Modules\\ServiceModule.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Modules\\ServiceModule.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Modules\\ServiceModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorizationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Middleware\\AuthorizationMiddleware.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Middleware\\AuthorizationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Middleware\\AuthorizationMiddleware.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Middleware\\AuthorizationMiddleware.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:00:43.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Enumerators\\PaymentEnum.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Enumerators\\PaymentEnum.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Enumerators\\PaymentEnum.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Enumerators\\PaymentEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:00:20.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Enumerators\\OrderEnum.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Enumerators\\OrderEnum.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Enumerators\\OrderEnum.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Enumerators\\OrderEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:00:19.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SMSSending.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Commons\\SMSSending.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\Commons\\SMSSending.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\Commons\\SMSSending.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\Commons\\SMSSending.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:00:06.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardHub.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\WebSocketImplementation\\DashboardHub.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\WebSocketImplementation\\DashboardHub.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\WebSocketImplementation\\DashboardHub.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\WebSocketImplementation\\DashboardHub.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "signalRDashboard.js",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\signalRDashboard.js",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\signalRDashboard.js",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\signalRDashboard.js",
+              "RelativeToolTip": "AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\signalRDashboard.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-27T14:59:58.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatwithSignalR.js",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\ChatwithSignalR.js",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\ChatwithSignalR.js",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\ChatwithSignalR.js",
+              "RelativeToolTip": "AspNetCoreFromBasic\\wwwroot\\js\\SignalR\\ChatwithSignalR.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-27T14:59:58.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\EmailConfigurations\\EmailSender.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\EmailConfigurations\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\EmailConfigurations\\EmailSender.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\EmailConfigurations\\EmailSender.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.DataAccess\\DbInitializers\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "AspNetCore.DataAccess\\DbInitializers\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.DataAccess\\DbInitializers\\IDbInitializer.cs",
+              "RelativeToolTip": "AspNetCore.DataAccess\\DbInitializers\\IDbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwHMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Admin\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.DataAccess\\Repository\\MenuRepo.cs",
+              "RelativeDocumentMoniker": "AspNetCore.DataAccess\\Repository\\MenuRepo.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.DataAccess\\Repository\\MenuRepo.cs",
+              "RelativeToolTip": "AspNetCore.DataAccess\\Repository\\MenuRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShoppingCartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeToolTip": "AspNetCoreFromBasic\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwBcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T14:59:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartManipulation.js",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\wwwroot\\js\\Cart\\CartManipulation.js",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\wwwroot\\js\\Cart\\CartManipulation.js",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\wwwroot\\js\\Cart\\CartManipulation.js",
+              "RelativeToolTip": "AspNetCoreFromBasic\\wwwroot\\js\\Cart\\CartManipulation.js",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwDsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-27T14:59:58.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T14:59:58.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreFromBasic\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCoreFromBasic\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "RelativeToolTip": "AspNetCoreFromBasic\\Views\\Shared\\Components\\ShoppingCart\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T14:59:58.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderHeaderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.DataAccess\\Repository\\OrderHeaderRepo.cs",
+              "RelativeDocumentMoniker": "AspNetCore.DataAccess\\Repository\\OrderHeaderRepo.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.DataAccess\\Repository\\OrderHeaderRepo.cs",
+              "RelativeToolTip": "AspNetCore.DataAccess\\Repository\\OrderHeaderRepo.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MailDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Models\\ViewModel\\MailDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Models\\ViewModel\\MailDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Models\\ViewModel\\MailDetailsViewModel.cs",
+              "RelativeToolTip": "AspNetCore.Models\\ViewModel\\MailDetailsViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StaticStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\StaticDefinitions\\StaticStrings.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Utilities\\StaticDefinitions\\StaticStrings.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Utilities\\StaticDefinitions\\StaticStrings.cs",
+              "RelativeToolTip": "AspNetCore.Utilities\\StaticDefinitions\\StaticStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PaymentKhaltiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Models\\ViewModel\\PaymentKhaltiResponse.cs",
+              "RelativeDocumentMoniker": "AspNetCore.Models\\ViewModel\\PaymentKhaltiResponse.cs",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\Sawadee_V2\\Sawadee_V2\\AspNetCore.Models\\ViewModel\\PaymentKhaltiResponse.cs",
+              "RelativeToolTip": "AspNetCore.Models\\ViewModel\\PaymentKhaltiResponse.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:59:58.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
